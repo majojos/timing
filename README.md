@@ -8,4 +8,4 @@ If process name is provided to constructor, than the summary message contains th
 Example is found in main.py
 
 ### AUTHOR
-    majojos
+majojos
