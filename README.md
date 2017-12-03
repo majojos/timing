@@ -1,6 +1,6 @@
 Timing module
 
-use for  measurement of process time
+used for measurement of process time
 
 If process name is provided to constructor, than the summary message contains the process name. This is helpful if used for nested process measurements.
 
