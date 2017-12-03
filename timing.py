@@ -3,7 +3,7 @@ from datetime import datetime
 
 class Timing(object):
     """
-    For measurement execution time of a process.
+    For measurement of process execution time.
     """
 
     def __init__(self, processname=''):
